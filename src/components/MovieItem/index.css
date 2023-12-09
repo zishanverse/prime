@@ -1,0 +1,34 @@
+.thumb {
+  width: 100%;
+}
+.card {
+  width: 100%;
+}
+.thumButton {
+  width: 93%;
+  padding: 0px;
+  border: 0px;
+  border-radius: 10px;
+  background-color: transparent;
+}
+.popClose {
+  align-self: flex-end;
+  border: 0px;
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+.pop-card {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 47vw;
+}
+.video {
+  align-self: flex-start;
+  width: 100%;
+}

@@ -1,0 +1,17 @@
+.slider-container {
+  background-color: #000000;
+  padding: 40px;
+}
+.prime {
+  height: 40vh;
+  width: 100vw;
+}
+.head {
+  color: #fff;
+  padding-left: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.slider-card {
+  margin-bottom: 30px;
+}
